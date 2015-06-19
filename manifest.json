@@ -1,0 +1,17 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "icons": {
+      "128": "desktop.png",
+      "16": "desktop.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhyU7PgF85knhD+4hrfMIl/JhQ8HtLXlbh8Z3Ff5BteknvSZ9BrAtTM4NKG5OI/KznPO064ayzfp+60OUZmv0TUgRLfW1uou4DZLfglT5+AwtoLabq6m0B/vfjk+TT3d1G7WWDlv/j07Le6KhzUNSSlfBWg6URoollDT4zX5jJMG59HMpychvPYNpaDBjXN/hKHWPN/j1hgsBSHHpewk/jxLwYPV19d/SQ40bM/A73U6Cg9+Usn1A9J+g+FdD1INW4HJMvl7KIGIKNmn5/PBFky3QvoWosWYk44YJA91hNKTmZLvgzR9Sn0hxhy4uLMCr/nV4M9pR42lcQdonAEDB/wIDAQAB",
+   "manifest_version": 2,
+   "name": "PEXEfied Desktop Capture Sample",
+   "permissions": [ "desktopCapture" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3"
+}
